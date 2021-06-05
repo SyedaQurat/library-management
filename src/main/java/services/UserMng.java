@@ -1,12 +1,12 @@
-package lib;
+package services;
 
-import dbConnection.SQLConnection;
+import databaseConnection.SQLConnection;
 import dto.User;
 
 import java.sql.SQLException;
 import java.util.Scanner;
 
-import static dbConnection.SQLConnection.*;
+import static databaseConnection.SQLConnection.*;
 
 public class UserMng {
 

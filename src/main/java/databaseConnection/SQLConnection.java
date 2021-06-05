@@ -1,4 +1,4 @@
-package dbConnection;
+package databaseConnection;
 
 import dto.Book;
 import dto.User;

@@ -1,7 +1,7 @@
-package lib;
+package services;
 
 import dto.Book;
-import dbConnection.SQLConnection;
+import databaseConnection.SQLConnection;
 
 import java.sql.Timestamp;
 import java.util.Scanner;
